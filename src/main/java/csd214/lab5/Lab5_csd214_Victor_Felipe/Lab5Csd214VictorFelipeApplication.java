@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Lab5Csd214VictorFelipeApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(Lab5Csd214VictorFelipeApplication.class, args);
 	}
 
